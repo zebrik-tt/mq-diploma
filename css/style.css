@@ -692,6 +692,7 @@ aside {
   text-transform: uppercase;
   color: #ffffff;
   background-color: #b59f5b;
+  border: none;
 }
 
 .shop-button:hover {
